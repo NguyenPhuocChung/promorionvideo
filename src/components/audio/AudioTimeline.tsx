@@ -1,5 +1,5 @@
-import { Space, Tag, Button, Tooltip } from "antd";
-import { DeleteOutlined, MergeCellsOutlined, CaretRightOutlined } from "@ant-design/icons";
+import { Space, Tag, Button } from "antd";
+import {  MergeCellsOutlined, CaretRightOutlined } from "@ant-design/icons";
 import type { Take } from "./TakesList";
 
 type Props = {
