@@ -1,4 +1,4 @@
-import { Typography, Tag, Space } from "antd";
+import { Typography, Tag } from "antd";
 
 const { Title, Text } = Typography;
 

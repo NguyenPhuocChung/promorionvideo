@@ -1,4 +1,4 @@
-import Icon, { AudioMutedOutlined, AudioOutlined } from "@ant-design/icons";
+import  { AudioOutlined } from "@ant-design/icons";
 import { Button } from "antd";
 
 type Props = {

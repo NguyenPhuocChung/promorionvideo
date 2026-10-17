@@ -45,7 +45,6 @@ export default function PreviewPanel({
   takes,
   activeTakeId,
   processing,
-  audioUrl,
   onStartRecording,
   onStopRecording,
   onSelectTake,
