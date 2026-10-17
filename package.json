@@ -1,0 +1,34 @@
+{
+  "name": "remotion-web-studio",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "oxlint",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^6.3.4",
+    "@remotion/browser-bundler": "^4.0.536",
+    "@remotion/google-fonts": "^4.0.536",
+    "@remotion/media": "^4.0.536",
+    "@remotion/player": "^4.0.536",
+    "@remotion/web-renderer": "^4.0.536",
+    "antd": "^6.6.6",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "remotion": "^4.0.536",
+    "wavesurfer.js": "^8.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^24.13.3",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "@vitejs/plugin-react": "^6.1.1",
+    "oxlint": "^1.81.0",
+    "typescript": "~6.0.2",
+    "vite": "^8.3.0"
+  }
+}
